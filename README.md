@@ -5,7 +5,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-KISHORE_KUMAR_S-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kishore-kumar-s-8b0683201/)](https://www.linkedin.com/in/kishore-kumar-s-8b0683201/)
 
-🌱 **Profile Views**
+🌱 **Profile Views**<br>
 ![visitors](https://profile-counter.glitch.me/KISHORE-KUMAR-S/count.svg?align=center)
 
 <!--
