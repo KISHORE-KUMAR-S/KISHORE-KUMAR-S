@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm KISHORE KUMAR SIVAKUMAR, a passionate and dedicated individual with a keen interest in technology and its ever-evolving landscape. I recently completed my Bachelor of Engineering in Computer Science, where I honed my skills and gained invaluable knowledge in various aspects of computer science and a fresh faced Mobile App Developer with a thirst for knowledge and love for building great things.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KISHORE-KUMAR-S)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **KISHORE-KUMAR-S/KISHORE-KUMAR-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
