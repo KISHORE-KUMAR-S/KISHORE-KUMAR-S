@@ -1,4 +1,4 @@
-### Hi there 👋 I'm <b>Kishore Kumar S</b>, a passionate and dedicated individual with a keen interest in technology and its ever-evolving landscape. I recently completed my Bachelor of Engineering in Computer Science, where I honed my skills and gained invaluable knowledge in various aspects of computer science.
+### Hi there 👋 I'm KISHORE KUMAR SIVAKUMAR, a passionate and dedicated individual with a keen interest in technology and its ever-evolving landscape. I recently completed my Bachelor of Engineering in Computer Science, where I honed my skills and gained invaluable knowledge in various aspects of computer science.
 
 <!--
 **KISHORE-KUMAR-S/KISHORE-KUMAR-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
