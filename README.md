@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### About Me
+Hello there! I'm [Your Name], a passionate and dedicated individual with a keen interest in technology and its ever-evolving landscape. I recently completed my Bachelor of Engineering in Computer Science from ABC College, where I honed my skills and gained invaluable knowledge in various aspects of computer science.
+
 <!--
 **KISHORE-KUMAR-S/KISHORE-KUMAR-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
