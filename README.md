@@ -5,6 +5,8 @@
 
 📫 ***How to reach me:***  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-KISHORE_KUMAR_S-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kishore-kumar-s-8b0683201/)](https://www.linkedin.com/in/kishore-kumar-s-8b0683201/)
 
+👨‍💻 ***LeetCode:*** [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/livekishore2001/)
+
 <!--
 **KISHORE-KUMAR-S/KISHORE-KUMAR-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
