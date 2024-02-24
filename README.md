@@ -3,10 +3,7 @@
 📶 **Stats**<br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KISHORE-KUMAR-S&theme=dark&layout=compact&align=right&width=40%)](https://github.com/KISHORE-KUMAR-S?tab=repositories)
 
-[![Linkedin Badge](https://img.shields.io/badge/-KISHORE_KUMAR_S-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kishore-kumar-s-8b0683201/)](https://www.linkedin.com/in/kishore-kumar-s-8b0683201/)
-
-<!--🌱 **Profile Views**<br>
-![visitors](https://profile-counter.glitch.me/KISHORE-KUMAR-S/count.svg?align=center)-->
+📫 ***How to reach me:*** [![Linkedin Badge](https://img.shields.io/badge/-KISHORE_KUMAR_S-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kishore-kumar-s-8b0683201/)](https://www.linkedin.com/in/kishore-kumar-s-8b0683201/)
 
 <!--
 **KISHORE-KUMAR-S/KISHORE-KUMAR-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
