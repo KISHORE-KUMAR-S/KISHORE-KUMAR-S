@@ -11,12 +11,12 @@
 &nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/livekishore2001/)
 ---
-### ✨ Technologies I'm in:
-<p float="left">
-<img style="padding:5px;" align="center" alt="Android" width="40px"  src="https://github.com/KISHORE-KUMAR-S/KISHORE-KUMAR-S/assets/77736919/92328793-4077-4434-836a-262d8ff3d57b" />
-<img style="padding:5px;" align="center" alt="Flutter" width="40px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
-<img style="padding:5px;" align="center" alt="Git" width="40px"  src="https://github.com/KISHORE-KUMAR-S/KISHORE-KUMAR-S/assets/77736919/c8768031-fdff-4089-80ad-4659d2cbad09" />
-<img style="padding:5px;" align="center" alt="Github" width="40px"  src="https://github.com/KISHORE-KUMAR-S/KISHORE-KUMAR-S/assets/77736919/79cc25fe-c2b6-455c-8c24-7b78a40a66d7" />
+### ✨ Technologies I'm in...
+<p float="left"> &nbsp; &nbsp; &nbsp; &nbsp;
+<img style="padding:5px;" align="center" alt="Android" width="40px"  src="https://github.com/KISHORE-KUMAR-S/KISHORE-KUMAR-S/assets/77736919/92328793-4077-4434-836a-262d8ff3d57b" /> &nbsp;
+<img style="padding:5px;" align="center" alt="Flutter" width="40px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" /> &nbsp;
+<img style="padding:5px;" align="center" alt="Git" width="40px"  src="https://github.com/KISHORE-KUMAR-S/KISHORE-KUMAR-S/assets/77736919/c8768031-fdff-4089-80ad-4659d2cbad09" /> &nbsp;
+<img style="padding:5px;" align="center" alt="Github" width="40px"  src="https://github.com/KISHORE-KUMAR-S/KISHORE-KUMAR-S/assets/77736919/79cc25fe-c2b6-455c-8c24-7b78a40a66d7" /> &nbsp;
 </p>
 <!--
 **KISHORE-KUMAR-S/KISHORE-KUMAR-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
