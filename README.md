@@ -11,7 +11,7 @@
 &nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/livekishore2001/)
 ---
-### ⚙️ Technologies I'm in:
+### ✨ Technologies I'm in:
 <p float="left">
 <img style="padding:5px;" align="center" alt="Android" width="40px"  src="https://github.com/KISHORE-KUMAR-S/KISHORE-KUMAR-S/assets/77736919/92328793-4077-4434-836a-262d8ff3d57b" />
 <img style="padding:5px;" align="center" alt="Flutter" width="40px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
