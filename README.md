@@ -1,5 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Kishore+Kumar+S)](https://git.io/typing-svg)
-### A diligent and enthusiastic individual with a Bachelor of Engineering in Computer Science. Throughout my academic journey, I have developed a strong skill set and acquired comprehensive knowledge in diverse areas of computer science. As a fledgling Mobile App Developer, I am eager to leverage my expertise to create innovative solutions and contribute to the dynamic field of technology.
+
+### ⚡️ Quick Intro about me...
+- 💻 App Developer
+- 🏫 Bachelor of Engineering in Computer Science
+- 🌱 Currently learning Jetpack Compose Android
+- 👯 I’m looking to collaborate with other app developers
+---
 
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KISHORE-KUMAR-S&theme=dark&layout=compact&align=right&width=40%)](https://github.com/KISHORE-KUMAR-S?tab=repositories)
