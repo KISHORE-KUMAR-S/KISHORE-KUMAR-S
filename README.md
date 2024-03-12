@@ -1,15 +1,16 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&random=false&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Kishore+Kumar+S)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=500&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Kishore+Kumar+Sivakumar)](https://git.io/typing-svg)
 ---
 ### ⚡ Quick Intro about me...
 - 💻 App Developer
 - 🏫 Bachelor of Engineering in Computer Science
 - 🌱 Currently learning Jetpack Compose Android
-- 👯 I seek collaboration with app developers to explore more in app development
+- 👯 I seek collaboration with app devs to explore more in app development
 - 📫 How to reach me: 
 &nbsp;
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kishore-kumar-s-8b0683201/)
+<!--- 🧑‍💻 Explore my Leetcode Profile: 
 &nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/livekishore2001/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/livekishore2001/)-->
 ---
 ### ✨ Technologies I'm in...
 <p float="left"> &nbsp; &nbsp; &nbsp; &nbsp;
