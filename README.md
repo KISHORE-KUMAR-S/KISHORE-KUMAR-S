@@ -1,4 +1,4 @@
-### Hi there 👋 I'm KISHORE KUMAR SIVAKUMAR, a passionate and dedicated individual interested in technology and its ever-evolving landscape. I recently completed my Bachelor of Engineering in Computer Science, where I honed my skills and gained invaluable knowledge in various aspects of computer science I am a fresh-faced Mobile App Developer with a thirst for knowledge and a love for building great things.
+### Hi there 👋 I'm KISHORE KUMAR SIVAKUMAR, a diligent and enthusiastic individual with a Bachelor of Engineering in Computer Science. Throughout my academic journey, I have developed a strong skill set and acquired comprehensive knowledge in diverse areas of computer science. As a fledgling Mobile App Developer, I am eager to leverage my expertise to create innovative solutions and contribute to the dynamic field of technology.
 
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KISHORE-KUMAR-S&theme=dark&layout=compact&align=right&width=40%)](https://github.com/KISHORE-KUMAR-S?tab=repositories)
