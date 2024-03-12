@@ -4,7 +4,7 @@
 - 💻 App Developer
 - 🏫 Bachelor of Engineering in Computer Science
 - 🌱 Currently learning Jetpack Compose Android
-- 👯 I’m looking to collaborate with other app developers
+- 👯 I seek collaboration with app developers to explore more in app development
 ---
 
 <br><br>
