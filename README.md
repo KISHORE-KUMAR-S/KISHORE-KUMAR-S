@@ -8,13 +8,19 @@
 <!--- 🧑‍💻 Explore my Leetcode Profile: 
 &nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/livekishore2001/)-->
----
 ### ✨ Technologies I'm in...
 <p float="left"> &nbsp; &nbsp; &nbsp; &nbsp;
 <img style="padding:5px;" align="center" alt="Android" width="40px"  src="https://github.com/KISHORE-KUMAR-S/KISHORE-KUMAR-S/assets/77736919/92328793-4077-4434-836a-262d8ff3d57b" /> &nbsp;
 <img style="padding:5px;" align="center" alt="Flutter" width="40px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" /> &nbsp;
 <img style="padding:5px;" align="center" alt="Git" width="40px"  src="https://github.com/KISHORE-KUMAR-S/KISHORE-KUMAR-S/assets/77736919/c8768031-fdff-4089-80ad-4659d2cbad09" /> &nbsp;
 <img style="padding:5px;" align="center" alt="Github" width="40px"  src="https://github.com/KISHORE-KUMAR-S/KISHORE-KUMAR-S/assets/77736919/79cc25fe-c2b6-455c-8c24-7b78a40a66d7" /> &nbsp;
+</p>
+
+### ✨ Connect with me...
+<p float="left"> &nbsp; &nbsp; &nbsp; &nbsp;
+<a href="https://www.linkedin.com/in/kishore-kumar-s-8b0683201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="KISHORE KUMAR S" height="30" width="40" /></a>
+<a href="https://www.instagram.com/2.k.k.k.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="2.k.k.k.1" height="30" width="40" /></a>
+<a href="https://leetcode.com/livekishore2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="livekishore2001" height="30" width="40" /></a>
 </p>
 <!--
 **KISHORE-KUMAR-S/KISHORE-KUMAR-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
