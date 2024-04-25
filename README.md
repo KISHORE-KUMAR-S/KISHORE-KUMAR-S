@@ -3,7 +3,7 @@
 ### ⚡ Quick Intro about me...
 - 💻 App Developer
 - 🏫 Bachelor of Engineering in Computer Science
-- 🌱 Currently learning Jetpack Compose Android
+- 🌱 Currently learning Jetpack Compose Android and Flutter
 - 👯 I seek collaboration with app devs to explore more in app development
 <!--- 🧑‍💻 Explore my Leetcode Profile: 
 &nbsp;
