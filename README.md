@@ -9,8 +9,16 @@
 &nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/livekishore2001/)-->
 ### ✨ Technologies I'm in...
-<p float="left"> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwindcss,nodejs,java,express,dart,mysql,firebase,flutter,github,git,linux,powershell,postman,npm,pnpm,svg"/>
-
+#### Frontend (Web)
+&nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,svg" />
+#### Backend / Server-Side
+&nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=nodejs,express" />
+#### Mobile / Cross-Platform
+&nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=dart,flutter,firebase" />
+#### Database
+&nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=mysql" />
+#### DevOps / Tools / Workflow
+&nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=github,git,linux,powershell,postman,npm,pnpm" />
 
 ### ✨ Connect with me...
 <p float="left"> &nbsp; &nbsp; &nbsp; &nbsp;
