@@ -9,16 +9,16 @@
 &nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/livekishore2001/)-->
 ### ✨ Technologies I'm in...
-#### Frontend (Web)
-&nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,svg" />
-#### Backend / Server-Side
-&nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=nodejs,express" />
-#### Mobile / Cross-Platform
-&nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=dart,flutter,firebase" />
-#### Database
-&nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=mysql" />
-#### DevOps / Tools / Workflow
-&nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=github,git,linux,powershell,postman,npm,pnpm" />
+#### &nbsp; &nbsp; 🕸️ Frontend (Web)
+&nbsp; &nbsp; &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,svg" />
+#### &nbsp; &nbsp; ⚙️ Backend / Server-Side
+&nbsp; &nbsp; &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=nodejs,express" />
+#### &nbsp; &nbsp; 📱 Mobile / Cross-Platform
+&nbsp; &nbsp; &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=dart,flutter,firebase" />
+#### &nbsp; &nbsp; 0️⃣📃 Database
+&nbsp; &nbsp; &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=mysql" />
+#### &nbsp; &nbsp; 📦 DevOps / Tools / Workflow
+&nbsp; &nbsp; &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=github,git,linux,powershell,postman,npm,pnpm" />
 
 ### ✨ Connect with me...
 <p float="left"> &nbsp; &nbsp; &nbsp; &nbsp;
