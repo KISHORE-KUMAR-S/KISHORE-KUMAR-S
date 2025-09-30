@@ -9,12 +9,8 @@
 &nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/livekishore2001/)-->
 ### ✨ Technologies I'm in...
-<p float="left"> &nbsp; &nbsp; &nbsp; &nbsp;
-<img style="padding:5px;" align="center" alt="Android" width="40px"  src="https://github.com/KISHORE-KUMAR-S/KISHORE-KUMAR-S/assets/77736919/92328793-4077-4434-836a-262d8ff3d57b" /> &nbsp;
-<img style="padding:5px;" align="center" alt="Flutter" width="40px"  src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" /> &nbsp;
-<img style="padding:5px;" align="center" alt="Git" width="40px"  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /> &nbsp;
-<img style="padding:5px;" align="center" alt="Github" width="40px"  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" /> &nbsp;
-</p>
+<p float="left"> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=react,js,tailwindcss,nodejs,java,express,dart,mysql,firebase,flutter,github,git,linux,powershell,postman,npm,pnpm,svg"/>
+
 
 ### ✨ Connect with me...
 <p float="left"> &nbsp; &nbsp; &nbsp; &nbsp;
