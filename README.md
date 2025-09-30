@@ -17,8 +17,8 @@
 &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=dart,flutter,firebase" />
 #### &nbsp; &nbsp; 0️⃣📃 Database
 &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=mysql" />
-#### &nbsp; &nbsp; 📦 DevOps / Tools / Workflow
-&nbsp; &nbsp; &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=github,git,linux,powershell,postman,npm,pnpm" />
+#### &nbsp; &nbsp; 📦 DevOps / Tools / Workflow / Operating Systems
+&nbsp; &nbsp; &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=github,git,vite,vscode,postman,npm,pnpm,ubuntu,windows" />
 
 ### ✨ Connect with me...
 <p float="left"> &nbsp; &nbsp; &nbsp; &nbsp;
