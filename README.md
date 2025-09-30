@@ -9,7 +9,7 @@
 &nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/livekishore2001/)-->
 ### ✨ Technologies I'm in...
-<p float="left"> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=react,js,tailwindcss,nodejs,java,express,dart,mysql,firebase,flutter,github,git,linux,powershell,postman,npm,pnpm,svg"/>
+<p float="left"> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwindcss,nodejs,java,express,dart,mysql,firebase,flutter,github,git,linux,powershell,postman,npm,pnpm,svg"/>
 
 
 ### ✨ Connect with me...
