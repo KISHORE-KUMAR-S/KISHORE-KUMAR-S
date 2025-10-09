@@ -22,15 +22,11 @@
 
 ### ✨ Connect with me...
 <p float="left"> &nbsp; &nbsp; &nbsp; &nbsp;
-<a href="https://www.linkedin.com/in/kishore-kumar-s-8b0683201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="KISHORE KUMAR S" height="30" width="40" /></a>
-<a href="https://www.instagram.com/2.k.k.k.1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="2.k.k.k.1" height="30" width="40" /></a>
-<a href="https://leetcode.com/livekishore2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="livekishore2001" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/livekishore2001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="livekishore2001" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/profile/livekishore2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="livekishore2001" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kishore-kumar-s-8b0683201/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
 ### ✨ GitHub Stats...
-[![KISHORE KUMAR S's GitHub stats](https://github-readme-stats.vercel.app/api?username=KISHORE-KUMAR-S&show_icons=true&theme=tokyonigh&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![KISHORE KUMAR S's GitHub stats](https://github-readme-stats.vercel.app/api?username=KISHORE-KUMAR-S&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **KISHORE-KUMAR-S/KISHORE-KUMAR-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
