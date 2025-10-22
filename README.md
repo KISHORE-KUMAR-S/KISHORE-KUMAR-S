@@ -3,8 +3,8 @@
 ### ⚡ Quick Intro about me...
 - 💻 Web and Mobile App Developer
 - 🏫 Bachelor of Engineering in Computer Science
-- 🌱 Currently learning Flutter, React, Node.js and Express.js
-- 👯 I seek collaboration with app devs to explore more in app development
+- 🌱 Currently learning Flutter, React, Next.js, Node.js and Express.js
+- 👯 I seek collaboration with app devs to explore more in app and web development
 <!--- 🧑‍💻 Explore my Leetcode Profile: 
 &nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/livekishore2001/)-->
