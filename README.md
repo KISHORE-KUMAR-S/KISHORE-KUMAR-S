@@ -10,7 +10,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/livekishore2001/)-->
 ### ✨ Technologies I'm in...
 #### &nbsp; &nbsp; 🕸️ Frontend (Web)
-&nbsp; &nbsp; &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwindcss,svg" />
+&nbsp; &nbsp; &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwindcss" />
 #### &nbsp; &nbsp; ⚙️ Backend / Server-Side
 &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://skillicons.dev/icons?i=nodejs,express" />
 #### &nbsp; &nbsp; 📱 Mobile / Cross-Platform
