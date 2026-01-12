@@ -25,9 +25,6 @@
 <a href="https://www.linkedin.com/in/kishore-kumar-s-8b0683201/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 </p>
 
-### ✨ GitHub Stats...
-[![KISHORE KUMAR S's GitHub stats](https://github-readme-stats.vercel.app/api?username=KISHORE-KUMAR-S&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **KISHORE-KUMAR-S/KISHORE-KUMAR-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
